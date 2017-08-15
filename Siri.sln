@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siri", "VoiceRecognition\Siri.csproj", "{C5357311-8365-4109-9409-46F23CFEBB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandsLibrary", "CommandsLibrary\CommandsLibrary.csproj", "{1AB0BC9E-A0AD-40FC-811B-26EE8F6D98EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5357311-8365-4109-9409-46F23CFEBB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5357311-8365-4109-9409-46F23CFEBB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5357311-8365-4109-9409-46F23CFEBB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5357311-8365-4109-9409-46F23CFEBB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB0BC9E-A0AD-40FC-811B-26EE8F6D98EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB0BC9E-A0AD-40FC-811B-26EE8F6D98EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB0BC9E-A0AD-40FC-811B-26EE8F6D98EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB0BC9E-A0AD-40FC-811B-26EE8F6D98EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

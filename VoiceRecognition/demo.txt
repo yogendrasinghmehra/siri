@@ -1,0 +1,17 @@
+play
+pause
+go to my Computer
+play music
+stop music
+minimize
+maximize
+commands
+hi Siri
+goodbye Siri
+check my mails
+stop searching
+how are you
+what time it is?
+search for
+go to desktop
+what is the date today?
